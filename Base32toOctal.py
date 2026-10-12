@@ -1,7 +1,8 @@
 """
 Author: Jacob Miletti
 
-This dictionary maps each Base32 digit to the octal representation of its value.
+This program converts a Base32 number inputted by the user into its octal representation. 
+The program uses a dictionary to map each Base32 digit to its corresponding octal value.
 
 """
 
